@@ -1,0 +1,40 @@
+.output {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    margin-right: 10px;
+}
+
+.input {
+    
+    margin: 30px;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: center;
+}
+
+.inputText {
+    
+    width: 400px;
+    margin-right: 30px;
+    height: 36px;
+}
+
+.header {
+    left: 0;
+}
+.imgOutput {
+    margin: 30px;
+    width: 800px;
+    height: 700px;
+}
+
+.tableOutput {
+    margin: 30px;
+    width: 500px;
+    height: 500px;
+}
